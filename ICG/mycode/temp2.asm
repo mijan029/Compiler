@@ -1,0 +1,6 @@
+.MODEL SMALL
+.STACK 100H
+.DATA
+
+		number DB "00000$"
+.CODE
